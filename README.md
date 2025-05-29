@@ -1,19 +1,26 @@
-# Earnzy
+# 📱 Earnzy Support
 
-Earnzy Support
-Thanks for using Earnzy — your real-time money tracker.
+Welcome to the official support page for **Earnzy** — your real-time money tracker app.
 
-If you have questions, feedback, or need help, feel free to contact us:
+---
 
-Email: divan.media8@example.com
+### 💬 Need Help?
 
-We’re happy to assist with:
+If you have any questions, feedback, or need assistance, we’re here for you.
 
-Feature questions
+**Contact us:**  
+📧 [divan.media8@gmail.com](mailto:divan.media8@gmail.com)
 
-Bug reports
+---
 
-Suggestions for improvements
+### 🛠 We can help with:
+- Feature questions  
+- Bug reports  
+- Suggestions for improvements  
 
-This page serves as the official support resource for the Earnzy iOS app.
-We typically respond within 24–48 hours.
+---
+
+### ⏱ Response Time
+We typically respond within **24–48 hours** on business days.
+
+Thanks for being part of the Earnzy community!
