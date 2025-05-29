@@ -5,7 +5,7 @@ Thanks for using Earnzy — your real-time money tracker.
 
 If you have questions, feedback, or need help, feel free to contact us:
 
-Email:divan.media8@example.com
+Email: divan.media8@example.com
 
 We’re happy to assist with:
 
