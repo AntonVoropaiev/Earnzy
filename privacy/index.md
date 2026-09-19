@@ -1,16 +1,16 @@
-# Privacy Policy — Bounty Budget
+# Privacy Policy — Earnzy
 
 **Effective date:** March 5, 2026  
-**App name:** Bounty Budget  
+**App name:** Earnzy  
 **Developer:** Bounty LLC  
 **Contact email:** support@bountyapps.com
 
-This Privacy Policy explains how Bounty Budget (“the App”, “we”, “us”) collects, uses, and shares information when you use the App.
+This Privacy Policy explains how Earnzy (“the App”, “we”, “us”) collects, uses, and shares information when you use the App.
 
 ---
 
-## 1) What Bounty Budget is (and is not)
-Bounty Budget is a personal finance and budgeting app that helps you track income, expenses, and goals.
+## 1) What Earnzy is (and is not)
+Earnzy is a personal finance and budgeting app that helps you track income, expenses, and goals.
 
 - **No bank sync:** The App does **not** connect to your bank accounts. You manually enter transactions and account data.
 - **No user accounts:** The App does **not** require registration and does **not** ask for your name, email, phone number, or other direct identifiers.
@@ -122,7 +122,7 @@ At this time, Mixpanel analytics are enabled by default for app improvement and 
 ---
 
 ## 8) Subscriptions (RevenueCat + Apple App Store)
-Bounty Budget uses **RevenueCat** for subscription status and entitlement management. Purchases are processed by **Apple App Store**.
+Earnzy uses **RevenueCat** for subscription status and entitlement management. Purchases are processed by **Apple App Store**.
 
 Subscriptions may include a free trial. If you start a free trial, **Apple may automatically convert it to a paid subscription unless you cancel before the trial ends**. Subscriptions are typically **auto-renewing** unless canceled in your Apple ID subscription settings. Pricing and trial length are shown in the paywall and may vary by region/currency.
 
